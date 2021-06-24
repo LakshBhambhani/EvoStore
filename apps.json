@@ -1,0 +1,7 @@
+{
+    "apps": [
+        { "name": "Happy Birthday", "url": "https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino" },
+        { "name": "TicTacToe", "url": "https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino" },
+        { "name": "Tower Of Hanoi", "url": "https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino" }
+    ]
+}
