@@ -1,6 +1,6 @@
 {
     "apps": [
-        { "name": "Happy Birthday", "url": "https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino", "support": "EvoArm, EvoCar" },
+        { "name": "Happy Birthday", "url": "https://raw.githubusercontent.com/LakshBhambhani/EvoStore/main/HappyBirthday.json", "support": "EvoArm, EvoCar" },
         { "name": "TicTacToe", "url": "https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino", "support": "EvoArm, EvoCar" },
         { "name": "Tower Of Hanoi", "url": "https://www.evodyneacademy.com/evoarm-robotic-arm-kit-arduino", "support": "EvoArm, EvoCar" }
     ]
